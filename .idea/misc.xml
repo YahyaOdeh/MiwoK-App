@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Yo7A/AndroidStudioProjects/SpotifyClone/app/src/main/res/drawable/gradient_background.xml" value="0.36875" />
+        <entry key="..\:/Users/Yo7A/AndroidStudioProjects/SpotifyClone/app/src/main/res/drawable/ic_home_icon.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/Yo7A/AndroidStudioProjects/SpotifyClone/app/src/main/res/layout/activity_liked_songs.xml" value="0.26268115942028986" />
+        <entry key="..\:/Users/Yo7A/AndroidStudioProjects/SpotifyClone/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Yo7A/AndroidStudioProjects/SpotifyClone/app/src/main/res/layout/liked_songs_layout.xml" value="0.26268115942028986" />
+        <entry key="..\:/Users/Yo7A/AndroidStudioProjects/SpotifyClone/app/src/main/res/layout/songs_list.xml" value="0.5" />
+        <entry key="..\:/Users/Yo7A/AndroidStudioProjects/SpotifyClone/app/src/main/res/menu/button_nav_menu.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Yo7A/Desktop/Android_Dev_Track_Udacity-main/Android_Dev_Track_Udacity-main/app/src/main/res/layout/activity_main.xml" value="0.30104166666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
